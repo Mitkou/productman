@@ -2380,11 +2380,12 @@ header {
   vertical-align: middle;
 }
   .website-navigation a {
+    color: #303030;
     text-decoration: none;
     text-transform: capitalize;
   }
   .website-navigation a:not(:first-child) {
-    padding-left: 46px;
+    margin-left: 46px;
   }
 
 .featured-product-content {
